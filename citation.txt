@@ -1,0 +1,9 @@
+@article{REPO153,
+    author = "Huang, Dongxia and Luo, Weiqi and Liu, Minglin and Tang, Weixuan and Huang, Jiwu",
+    journal = "IEEE Transactions on Information Forensics and Security",
+    number = "",
+    pages = "15-29",
+    title = "{Steganography Embedding Cost Learning with Generative Multi-Adversarial Network}",
+    volume = "19",
+    year = "2024"
+}
